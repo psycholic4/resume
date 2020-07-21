@@ -37,15 +37,15 @@ Graduated in Feb. 2015
 
 ## Company Experiences
 
-- **VCNC [2014.12 ~ ]**
-***Android** (& iOS) developer*
-*Previously worked as a Server developer*
-*Team manager*
+- **VCNC [2014.12 ~ ]**  
+***Android** (& iOS) developer*  
+*Previously worked as a Server developer*  
+*Team manager*  
   - **New Project (Confidential, Android) [2020.04 ~ ]**
     - Team Lead, Scheduling
     - Develop Core Foundation, Core Architecture, Infrastructure
     - Covers the whole part of the application
-  - **[TADA](https://tadatada.com) [2018.06 ~ ]**
+  - **[TADA](https://tadatada.com) [2018.06 ~ ]**  
   *Basic of movement (Ride-hailing)*
     - Client Team Manager [2018.06 ~ 2018.12]
     - Scheduling & managing
@@ -54,39 +54,39 @@ Graduated in Feb. 2015
       - Covers the whole part of the application
     - TADA iOS application
       - Support
-  - **[Between](https://between.us) [2014.12 ~ ]**
+  - **[Between](https://between.us) [2014.12 ~ ]**  
   *App for couple. 2M MAU*
     - Android Team Manager [2017.01 ~ 2018.05]
     - Develop Android application [2015.07 ~ ]
       - 3 times major update
       - Covers the whole part of the application
       - Server API [2014.12 ~ 2015.07]
-  - **BetweenDate [2015.02 ~ 2015.07]** (Out of Service)
+  - **BetweenDate [2015.02 ~ 2015.07]** (Out of Service)  
   *Date information for couple*
     - Develop Server API & Admin
-- **Namo Interactive [2011.01 ~ 2014.11]**
+- **Namo Interactive [2011.01 ~ 2014.11]**  
 *Android & Javascript Library developer*
-  - **Namo EPUB Viewer [2012.02 ~ 2014.11]** (Out of Service)
+  - **Namo EPUB Viewer [2012.02 ~ 2014.11]** (Out of Service)  
   *E-book viewer*
     - Develop Android app & SDK, Javascript core (for Android & iOS)
     - Several SI projects (SoftBank BB, Y2Books, etc...)
     - Freelance [2014.05 ~ 2014.11]
-  - **Namo Comic Viewer** (Out of Service)
+  - **Namo Comic Viewer** (Out of Service)  
   *Comic book viewer*
     - Develop Android app
-  - **[Namo CrossEditor](https://www.namoeditor.co.kr/cross-editor-summary/) [2011.03 ~ 2012.04]**
+  - **[Namo CrossEditor](https://www.namoeditor.co.kr/cross-editor-summary/) [2011.03 ~ 2012.04]**  
   *Javascript WYSIWYG editor (B2B)*
     - Develop Javascript SDK, tiny image uploader server, build server
     - One-man team
-  - **Web Next Portal [2011.01 ~ 2011.02]** (Out of Service?)
+  - **Web Next Portal [2011.01 ~ 2011.02]** (Out of Service?)  
   *Website builder for school*
     - Develop server API & admin
 
 ## School Experience
 
-- **SNUCSE Miso [2008.07 ~ 2009.06]**
+- **SNUCSE Miso [2008.07 ~ 2009.06]**  
 *Main developer ([HallOfFame](http://old.snucse.org/HallOfFame/boa.html))*
-  - **[스누씨](http://old.snucse.org) (code name: Wings) [2008.07 ~ 2009.06]**
+  - **[스누씨](http://old.snucse.org) (code name: Wings) [2008.07 ~ 2009.06]**  
   *Community of SNUCSE*
     - Develop frontend & backend
     - Base libraries, Board (Normal, Profile, Image, Andromeda, Forum), Mark-up Language, OpenAPI, Survey, Panorama, Widget, etc...
