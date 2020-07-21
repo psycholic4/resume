@@ -24,7 +24,7 @@ Homepage: [https://psycholic4.com](https://psycholic4.com)
 
 ## Skills
 
-- 2012년 부터 **안드로이드** 개발
+- **안드로이드** 고수 [2012 ~]
 - iOS 초보
 - 웹 & 백엔드(Java, C#) 개발 경험
 - 팀 매니저
