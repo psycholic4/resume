@@ -19,7 +19,7 @@ Homepage: [https://psycholic4.com](https://psycholic4.com)
 ## Education
 
 ### SNUCSE 07
-**서울대학교 컴퓨터공학부 학사**
+**서울대학교 컴퓨터공학부 학사**  
 2015년 2월 졸업
 
 ## Skills
