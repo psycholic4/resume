@@ -1,6 +1,6 @@
 # Dongmin Kim
 
-[@VCNC](https://between.us/about)의 **안드로이드** 개발자 
+[VCNC](https://between.us/about)의 **안드로이드** 개발자 
 
 > 안드로이드 고수
 
