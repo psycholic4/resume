@@ -42,7 +42,7 @@ Graduated in Feb. 2015
 *Previously worked as a Server developer*  
 *Team manager*  
   - **New Project (Confidential, Android) [2020.04 ~ ]**
-    - Team Lead, Scheduling
+    - Client Team Lead, Scheduling
     - Develop Core Foundation, Core Architecture, Infrastructure
     - Covers the whole part of the application
   - **[TADA](https://tadatada.com) [2018.06 ~ ]**  
