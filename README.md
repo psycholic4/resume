@@ -38,7 +38,7 @@ Graduated in Feb. 2015
 ## Company Experiences
 
 - **VCNC [2014.12 ~ ]**  
-***Android** (& iOS) developer*  
+***Android lead** (& iOS) developer*  
 *Previously worked as a Server developer*  
 *Team manager*  
   - **New Project (Confidential, Android) [2020.04 ~ ]**
