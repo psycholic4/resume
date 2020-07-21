@@ -48,8 +48,8 @@ Homepage: [https://psycholic4.com](https://psycholic4.com)
   - **[타다](https://tadatada.com) [2018.06 ~ ]**  
   *이동의 기본 (Ride-hailing)*
     - 클라이언트 팀 매니저 [2018.06 ~ 2018.12]
+      - 전반적인 팀 매니징, 프로젝트 스케쥴링
       - 현재는 engineering에 집중
-    - 전반적인 팀 매니징, 프로젝트 스케쥴링
     - 타다 & 타다 드라이버 안드로이드 앱 개발
       - Core 개발, 아키텍처 설계
       - 앱 전반에 관여
